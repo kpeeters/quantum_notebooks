@@ -1,0 +1,6 @@
+name: quantum_notebooks
+channels:
+  - conda-forge
+dependencies:
+  - cadabra2-jupyter-kernel
+ 
