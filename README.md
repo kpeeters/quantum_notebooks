@@ -6,6 +6,9 @@ quantum mechanics. Work in progress. You can open them in Google Colab
 by simply clicking the links below, or you can clone this repository
 and open the files in a local Jupyter installation.
 
+The material here was created for the Mathematical Physics II module
+at Durham University.
+
 ## Contents:
 
 * **Sum of energy eigenstates**  
